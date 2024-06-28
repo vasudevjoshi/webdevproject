@@ -1,0 +1,1 @@
+this is created to understand the git command for pushing the local repo to the remote repo with help of the git bash
